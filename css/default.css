@@ -14,3 +14,9 @@ body{background-color:#D0E0C0;
    float: left;
    margin-right: 30px;
 }
+
+.curry_picture:after{
+     content:"";
+     clear: both;
+      display: block;
+}

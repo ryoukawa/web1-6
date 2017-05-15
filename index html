@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>おいしいカレーの作り方</title>
+ <meta cherset="utf-8">
+ <link rel="stylesheet" type="text/css" href="css/default.css">
+</head>
+<body>
+<article id="main">
+<p>スーパーに行きます。</p>
+<img src="" alt="完成したカレー" width=300 class="photo">
+<dl>
+<dt>種類：</dt><dd>ポークカレー</dd>
+<dt>辛さ：</dt><dd>3辛</dd>
+</dl>
+</article>
+</body>
+</html>

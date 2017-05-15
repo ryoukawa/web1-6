@@ -20,3 +20,12 @@ body{background-color:#D0E0C0;
      clear: both;
       display: block;
 }
+.explanation{
+   float: left;
+   width: 468px;
+}
+dt{
+  clear:left;
+  float: left;
+  font-weight: bold;
+}

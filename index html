@@ -8,11 +8,13 @@
 <body>
 <article id="main">
 <p>スーパーに行きます。</p>
+<section class="curry_picture">
 <img src="" alt="完成したカレー" width=300 class="photo">
 <dl>
 <dt>種類：</dt><dd>ポークカレー</dd>
 <dt>辛さ：</dt><dd>3辛</dd>
 </dl>
+</section>
 </article>
 </body>
 </html>

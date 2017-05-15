@@ -29,3 +29,30 @@ dt{
   float: left;
   font-weight: bold;
 }
+
+.btn {
+  -webkit-appearance: none;
+  -webkit-border-radius: 0;
+  margin: 5px;
+  width: 100px;
+  height: 40px;
+  padding: 10px;
+  border: none;
+  font-size: 16px;
+}
+
+.btn:hover{
+  opacity:0.8;
+}
+
+.btn:active{
+  color: white;
+}
+
+.btn-submit{
+  background-color:blue;
+}
+
+.btn-reset{
+  background-color: lightcoral;
+}
